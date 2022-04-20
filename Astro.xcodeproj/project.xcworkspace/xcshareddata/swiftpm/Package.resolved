@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "calendarkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/richardtop/CalendarKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "03bdad645a8d4b64a73859f8a71d6ceec49fb0cf"
+      }
+    },
+    {
+      "identity" : "swiftyattributes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/eddiekaiger/SwiftyAttributes.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "295b17ef68811f423ed4b281d902df12d4d33963"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -6,7 +6,7 @@ This Application is a Swift-based Calendar which will in the future have Astro h
 
 ## Screens
 
-<center><img src="assets/alendar.png" width=50%/></a></center>
+<center><img src="assets/calendar.png" width=50%/></a></center>
 <center><img src="assets/neweventform.png" width=50%/></a></center>
 
 <br>

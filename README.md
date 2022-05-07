@@ -6,6 +6,7 @@ This Application is a Swift-based Calendar which will in the future have Astro h
 
 ## Screens
 
+<center><img src="calendar.png" width=50%/></a></center>
 
 <br>
 
@@ -16,13 +17,11 @@ This Application is a Swift-based Calendar which will in the future have Astro h
 3. Connect Iphone to computer
 4. Press Play button in Xcode!
 
-
 ## Team
 
-| Role                 | Team Member                                    |
-| -------------------- | ---------------------------------------------- |
-| Software Developer   | [Parker Bath](https://github.com/parkerbath)   |
-
+| Role               | Team Member                                  |
+| ------------------ | -------------------------------------------- |
+| Software Developer | [Parker Bath](https://github.com/parkerbath) |
 
 ## Product Justification
 
@@ -30,10 +29,10 @@ The inspiration from this project came from the struggles of transitioning into 
 
 ## Product, Technical, and Design Documentation
 
-| Tech Stack | Technology         |
-| ---------- | ------------------ |
-| Front-End  | Swift              |
-| Back-End   | Firebase           |
+| Tech Stack | Technology |
+| ---------- | ---------- |
+| Front-End  | Swift      |
+| Back-End   | Firebase   |
 
 ## Product Scope
 
@@ -42,7 +41,6 @@ By the end of the semester, I intended to produce:
 - Front-End Calendar that the User can use to plan out their days
 - Calibration Page
 - Accountability Messages from Astro himself
-
 
 Sadly I was only able to produce the Calendar to be fully functional but I intend on working on the other portions over this summer to have a fully rounded working application
 

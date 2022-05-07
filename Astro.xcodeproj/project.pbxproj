@@ -13,6 +13,7 @@
 		7993D33026486B5400406316 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7993D32F26486B5400406316 /* Assets.xcassets */; };
 		7993D33326486B5400406316 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7993D33126486B5400406316 /* LaunchScreen.storyboard */; };
 		799963D4265997FD00AEC712 /* EKWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799963D3265997FD00AEC712 /* EKWrapper.swift */; };
+		9F994E9A28247E3D00756929 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F994E9928247E3D00756929 /* HealthKit.framework */; };
 		9FF28E36280FEAC2006E099D /* CalendarKit in Frameworks */ = {isa = PBXBuildFile; productRef = 9FF28E35280FEAC2006E099D /* CalendarKit */; };
 		9FF28E39280FF0D9006E099D /* SwiftyAttributes in Frameworks */ = {isa = PBXBuildFile; productRef = 9FF28E38280FF0D9006E099D /* SwiftyAttributes */; };
 		9FF28E3B280FFD03006E099D /* SecondaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF28E3A280FFD03006E099D /* SecondaryViewController.swift */; };
@@ -33,6 +34,7 @@
 		7993D33426486B5400406316 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		799442F427472EFE009BF2A9 /* Calendar.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Calendar.entitlements; sourceTree = "<group>"; };
 		799963D3265997FD00AEC712 /* EKWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EKWrapper.swift; sourceTree = "<group>"; };
+		9F994E9928247E3D00756929 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/iOSSupport/System/Library/Frameworks/HealthKit.framework; sourceTree = DEVELOPER_DIR; };
 		9FF28E3A280FFD03006E099D /* SecondaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondaryViewController.swift; sourceTree = "<group>"; };
 		9FF28E4028102853006E099D /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
 		9FF28E42281028BB006E099D /* MainNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainNavigationController.swift; sourceTree = "<group>"; };
@@ -46,6 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F994E9A28247E3D00756929 /* HealthKit.framework in Frameworks */,
 				9FF28E36280FEAC2006E099D /* CalendarKit in Frameworks */,
 				9FF28E39280FF0D9006E099D /* SwiftyAttributes in Frameworks */,
 			);
@@ -60,6 +63,7 @@
 				7993D32526486B5300406316 /* Calendar */,
 				9FF28E48281064F0006E099D /* settings-logo.png */,
 				7993D32426486B5300406316 /* Products */,
+				9F994E9828247E3D00756929 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -89,6 +93,14 @@
 				9FF28E3A280FFD03006E099D /* SecondaryViewController.swift */,
 			);
 			path = Calendar;
+			sourceTree = "<group>";
+		};
+		9F994E9828247E3D00756929 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9F994E9928247E3D00756929 /* HealthKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

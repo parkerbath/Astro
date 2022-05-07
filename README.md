@@ -26,7 +26,7 @@ This Application is a Swift-based Calendar which will in the future have Astro h
 
 ## Product Justification
 
-The inspiration from this project came from the struggles of transitioning into becoming an adult and trying to find a way for technology (for once) to help you stay motivated and keep yourself accountable to what you want to achieve
+The inspiration from this project came from the struggles of transitioning into becoming an adult and trying to find a way for technology to (for once) help you stay motivated and keep yourself accountable to what you want to achieve
 
 ## Product, Technical, and Design Documentation
 

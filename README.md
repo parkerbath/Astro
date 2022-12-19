@@ -6,8 +6,7 @@ This Application is a Swift-based Calendar which will in the future have Astro h
 
 ## Screens
 
-<center><img src="assets/calendar.png" width=50%/></a></center>
-<center><img src="assets/neweventform.png" width=50%/></a></center>
+<center><img src="assets/calendar.png" width=50%/></a></center><center><img src="assets/neweventform.png" width=50%/></a></center>
 <img width="1203" alt="Screen Shot 2022-04-20 at 1 05 15 PM" src="https://user-images.githubusercontent.com/45578338/208450015-5444c887-a9b9-4e30-a79d-0999984d7eea.png"><img width="1198" alt="Screen Shot 2022-04-20 at 1 05 33 PM" src="https://user-images.githubusercontent.com/45578338/208449938-8554efc5-88b8-4e34-b896-fef5fcbe2db7.png"><img width="1192" alt="Screen Shot 2022-04-20 at 1 06 02 PM" src="https://user-images.githubusercontent.com/45578338/208449980-27f2f013-a142-4aeb-9ac7-9c9bcd31ad61.png">
 
 

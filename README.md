@@ -12,7 +12,7 @@ This Application is a Swift-based Calendar which will in the future have Astro h
 
 
 ## Results:
-<img width="300" alt="Screen Shot 2022-12-19 at 9 49 38 AM" src="https://user-images.githubusercontent.com/45578338/208452717-9c217fd3-eddf-4912-8ab9-56f5233e1b5d.png"> <img width="300" alt="Screen Shot 2022-12-19 at 9 50 00 AM" src="https://user-images.githubusercontent.com/45578338/208452785-ec835c0d-db8e-4e80-980c-f0f1e379766a.png"> <img width="300" alt="Screen Shot 2022-12-19 at 9 50 12 AM" src="https://user-images.githubusercontent.com/45578338/208452832-7b6bf913-6c30-4836-9658-41868be439d1.png">
+<img width="250" alt="Screen Shot 2022-12-19 at 9 49 38 AM" src="https://user-images.githubusercontent.com/45578338/208452717-9c217fd3-eddf-4912-8ab9-56f5233e1b5d.png"> <img width="250" alt="Screen Shot 2022-12-19 at 9 50 00 AM" src="https://user-images.githubusercontent.com/45578338/208452785-ec835c0d-db8e-4e80-980c-f0f1e379766a.png"> <img width="250" alt="Screen Shot 2022-12-19 at 9 50 12 AM" src="https://user-images.githubusercontent.com/45578338/208452832-7b6bf913-6c30-4836-9658-41868be439d1.png">
 
 
 
